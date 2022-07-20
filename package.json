@@ -1,0 +1,19 @@
+{
+  "name": "mustafakaracuha",
+  "version": "1.0.0",
+  "description": "portfolio design",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustafakaracuha/mustafakaracuha.github.io.git"
+  },
+  "author": "Mustafa Karaçuha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mustafakaracuha/mustafakaracuha.github.io/issues"
+  },
+  "homepage": "https://github.com/mustafakaracuha/mustafakaracuha.github.io#readme"
+}
